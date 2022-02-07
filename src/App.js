@@ -1,5 +1,13 @@
+/** @format */
+
+import { Forms } from "./components/Forms";
+
 function App() {
-  return <div>"Start code here"</div>;
+  return (
+    <div>
+      <Forms />
+    </div>
+  );
 }
 
 export default App;
